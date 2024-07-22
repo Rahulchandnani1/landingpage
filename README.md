@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### 'npm i' 
+to install all dependencies and then run below command.
 
 ### `npm start`
 
@@ -13,6 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+Steps to interact:
+1 The site is responsive for more than 1000px.
+2 Coming soon button at top will show message on click.
 
 ### `npm test`
 
