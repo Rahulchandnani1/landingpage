@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b232d4c.css",
+    "main.js": "/static/js/main.cb68d0a4.js",
+    "static/js/453.2b9430d9.chunk.js": "/static/js/453.2b9430d9.chunk.js",
+    "static/media/Subtract.png": "/static/media/Subtract.d7589837eca178907edb.png",
+    "static/media/Group 427319595.png": "/static/media/Group 427319595.1a18463fb8492778d42e.png",
+    "static/media/glines.png": "/static/media/glines.2ee7a6a90b9a61fe990e.png",
+    "static/media/Empoweringtext.png": "/static/media/Empoweringtext.8086af68791c997aa1d8.png",
+    "static/media/globe.png": "/static/media/globe.1cc6f77412acf87a041d.png",
+    "static/media/Ellipse 2712.png": "/static/media/Ellipse 2712.3bcb2cf78e5746c77d1a.png",
+    "static/media/Ellipse 2716.png": "/static/media/Ellipse 2716.230cc6eadfc377caa54e.png",
+    "static/media/Page 1.png": "/static/media/Page 1.3538e0a883c73cebb28f.png",
+    "static/media/Ellipse 2714.png": "/static/media/Ellipse 2714.2f991f92d8047602c95b.png",
+    "static/media/Ellipse 2713.png": "/static/media/Ellipse 2713.208742fc28a671fa4a3f.png",
+    "static/media/Ellipse 2715.png": "/static/media/Ellipse 2715.a751e1e9467aaf56b35e.png",
+    "static/media/Page 1 (1).png": "/static/media/Page 1 (1).f37fd945ea03f111b5ee.png",
+    "static/media/Rectangle 161123950.png": "/static/media/Rectangle 161123950.98ebb1d48b86a96c0ed4.png",
+    "index.html": "/index.html",
+    "main.1b232d4c.css.map": "/static/css/main.1b232d4c.css.map",
+    "main.cb68d0a4.js.map": "/static/js/main.cb68d0a4.js.map",
+    "453.2b9430d9.chunk.js.map": "/static/js/453.2b9430d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b232d4c.css",
+    "static/js/main.cb68d0a4.js"
+  ]
+}
